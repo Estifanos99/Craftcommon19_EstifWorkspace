@@ -1,10 +1,10 @@
 # Craftcommon19_EstifWorkspace
 
-Hello everyone, Welcome to teh team. 
+Hello everyone, Welcome to the team. 
 
 My name is Estifanos Yitayew
 
-Arsenal is my favorite soccer team
+I am taking mulesoft course!
 
 
 Messi my favorite football player
